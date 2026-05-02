@@ -7,7 +7,7 @@ This project simulates basic hospital operations like patient management, doctor
 
 ## 🚀 Project Overview
 
-**MEDIASSIT** is a beginner-friendly Java project designed to demonstrate core Object-Oriented Programming concepts by building a real-world hospital management simulation.
+**Hospital Management System** is a beginner-friendly Java project designed to demonstrate core Object-Oriented Programming concepts by building a real-world hospital management simulation.
 
 It focuses on managing hospital data in a structured and modular way using classes and objects.
 
@@ -39,12 +39,13 @@ It focuses on managing hospital data in a structured and modular way using class
 
 ## 📁 Project Structure
 
-MEDIASSIT-Hospital-Management-System
+Hospital-Management-System
 │
 ├── HospitalMain.java
 ├── HospitalUI.java
 ├── Patient.java
 ├── Doctor.java
+├── MedicalRecord.java
 ├── HospitalService.java
 └── README.md
 
